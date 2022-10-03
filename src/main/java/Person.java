@@ -3,9 +3,9 @@ public class Person {
     private final int age;
 
     // construtor xxxxx
-    public Person(String name, int age) {
+    public Person(String name) {
         this.name = name;
-        this.age = age;
+        this.age = 10;
     }
 
     // getter
